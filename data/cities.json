@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "99e9",
+      "cityName": "Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-01-10T07:35:05.488Z",
+      "notes": "dcvf",
+      "position": {
+        "lat": "28.61300733365442",
+        "lng": "77.26049423217775"
+      }
+    },
+    {
+      "id": "4d0a",
+      "cityName": "Gojra",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2025-01-10T07:35:15.743Z",
+      "notes": "defrt",
+      "position": {
+        "lat": "31.203404950917395",
+        "lng": "72.77343750000001"
+      }
+    },
+    {
+      "id": "50e3",
+      "cityName": "Haixi",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-01-10T07:35:19.196Z",
+      "notes": "defrdg",
+      "position": {
+        "lat": "33.97980872872457",
+        "lng": "90.87890625000001"
+      }
+    }
+  ]
+}
