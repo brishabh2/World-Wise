@@ -19,8 +19,6 @@ function CityItem({ city }) {
     deleteCity(id);
   }
 
-  console.log(position, "position");
-
   return (
     <li>
        <Link
