@@ -9,7 +9,7 @@ export default function Product() {
       <section>
         <img src="/img-1.jpg" alt="a person with the dogs on the mountain"/>
         <div>
-          <h2>About WorldWide.</h2>
+          <h2>About WorldWise.</h2>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
             dicta illum vero culpa cum quaerat architecto sapiente eius non
